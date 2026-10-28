@@ -124,8 +124,8 @@ Through this project, I explored:
 
 **P Rethi Kumaar**
 
-- [LinkedIn](https://www.linkedin.com/)
-- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/rethi-kumaar/)
+- [GitHub](https://github.com/Rethikumaar/)
 
 ## Project Purpose
 
